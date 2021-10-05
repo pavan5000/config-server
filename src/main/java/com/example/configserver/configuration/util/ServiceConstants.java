@@ -21,7 +21,7 @@ public class ServiceConstants {
 
     public static final String TOKEN = "token";
 
-    public static final String DEFAULT_GITHUB_LOGINPATH = "/v1/auth/github_xsp-core/login";
+    public static final String DEFAULT_GITHUB_LOGINPATH = "/v1/auth/github_org/login";
 
     public static final String DEFAULT_APPROLE_LOGINPATH = "/v1/auth/approle/login";
 
